@@ -32,7 +32,7 @@
         <service
             android:name=".FireWallpaperService"
             android:exported="true"
-            android:label="Doom Fire"
+            android:label="Hell Fire"
             android:permission="android.permission.BIND_WALLPAPER">
             <intent-filter>
                 <action android:name="android.service.wallpaper.WallpaperService" />
