@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HellFire Wallpaper</string>
+    <string name="fire_color">Fire color: %1$d°</string>
+    <string name="fire_height">Fire height: %1$s</string>
+    <string name="wind_label">Wind: %1$s (negative = left, positive = right)</string>
+    <string name="speed_label">Speed: %1$d FPS</string>
+    <string name="reactive_fire">Touch-reactive fire</string>
+    <string name="choose_bg">Choose background image</string>
+    <string name="change_img">Change image</string>
+    <string name="img_selected">Image selected</string>
+    <string name="crop_img">Crop image</string>
+    <string name="remove_img">Remove image</string>
+    <string name="preview_title">Preview (actual scale)</string>
+    <string name="zoom_label">Zoom: %1$sx (pinch to zoom in or out, drag to move)</string>
+    <string name="save_crop">Save crop</string>
+    <string name="no_image">No image selected</string>
+    <string name="service_label">Doom Fire</string>
+    <string name="lang_auto">System</string>
+    <string name="lang_es">Spanish</string>
+    <string name="granularity_label">Granularity: %1$d (lower = more detailed, more battery)</string>
+    <string name="lang_en">English</string>
+</resources>
