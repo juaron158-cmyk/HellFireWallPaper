@@ -15,8 +15,46 @@
     <string name="zoom_label">Zoom: %1$sx (pinch to zoom in or out, drag to move)</string>
     <string name="save_crop">Save crop</string>
     <string name="no_image">No image selected</string>
+    <string name="notif_listener_title">Notification reaction</string>
+    <string name="notif_listener_desc">Enable in Settings → Security → Notification access</string>
+    <string name="notif_impact_title">Notification!</string>
+    <string name="frost_label">Frost dendrites</string>
+    <string name="frost_size_label">Frost flake size: %1$d%%</string>
+    <!-- values/strings.xml -->
+    <string name="tab_fuego">Fire</string>
+    <string name="tab_hielo">Ice</string>
+    <string name="tab_patrones">Patterns</string>
+    <string name="tab_imagen">Image</string>
+    <string name="tab_sistema">System</string>
+    <string name="helecho_label">Fractal Fern</string>
+    <string name="helecho_intensity_label">Fern Intensity: %1$d%%</string>
+    <string name="mode_label">Effect mode</string>
+    <string name="rd_label">Reaction-diffusion</string>
+    <string name="rd_manchas">Spots</string>
+    <string name="rd_coral">Coral</string>
+    <string name="licht_label">Lichtenberg rays</string>
+    <string name="licht_intensity_label">Ray intensity: %1$d%%</string>
+    <string name="rd_laberinto">Maze</string>
+    <string name="rd_mitosis">Mitosis</string>
+    <!-- values/strings.xml -->
+    <string name="tab_avanzado">Advanced</string>
+    <string name="rd_gusanos">Worms</string>
+    <string name="rd_speed_label">Pattern speed: %1$s</string>
+    <string name="mode_fire">Fire</string>
+    <string name="rain_length_label">Rain streak length: %1$d</string>
+    <string name="snow_density_label">Snow density: %1$s</string>
+    <string name="mode_rain">Rain</string>
+    <string name="smoke_label">Smoke</string>
+    <string name="fall_speed_label">Fall speed: %1$s</string>
+    <string name="smoke_density_label">Smoke density: %1$s</string>
+    <string name="mode_snow">Snow</string>
+    <string name="brightness_label">Brightness: %1$d%%</string>
+    <string name="transparency_label">Transparency: %1$d%%</string>
+    <string name="notif_manual_hint">Open Settings → Notifications → Access manually</string>
+    <string name="notif_impact_desc">Fire reacts when you receive messages</string>
     <string name="service_label">Doom Fire</string>
     <string name="lang_auto">System</string>
+    <string name="gyro_wind">Wind by Inclination</string>
     <string name="lang_es">Spanish</string>
     <string name="granularity_label">Granularity: %1$d (lower = more detailed, more battery)</string>
     <string name="lang_en">English</string>
