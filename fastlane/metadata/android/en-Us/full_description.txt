@@ -1,0 +1,22 @@
+HellFire Wallpaper is a live wallpaper that turns your screen into a fire, rain or snow scene, with optional layers that grow over the image.
+
+Main features:
+- Fire, rain and snow modes, with adjustable color, height, smoke, wind and speed.
+- Snow piles that build up on the bottom of the screen and are cleared over time.
+- Frost layer and crystal ferns that grow from the edges toward the center.
+- Growth patterns (dendrites, maze, coral and others) and Lichtenberg-style lightning rays.
+- Custom background image, with cropping.
+- Fine-tune grain size, brightness and transparency.
+- Optional gyroscope control for wind.
+- Interface in English and Spanish.
+
+Privacy:
+- The notification reaction only checks which app sent a notification. It does not read notification content.
+- No account is needed.
+- The app only requires permissions to access images for use as a wallpaper. The permissions requested are:
+ android.permission.READ_MEDIA_IMAGES
+ android.permission.SET_WALLPAPER
+ android.permission.READ_EXTERNAL_STORAGE
+ android.permission.BIND_WALLPAPER
+
+This app is in beta. Some effects may be heavier on older devices; lower the grain size or the effect intensity if the animation is slow.

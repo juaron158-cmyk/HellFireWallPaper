@@ -1,0 +1,1 @@
+Beta: new tabbed interface, snow pile controls, crystal ferns, growth patterns, Lichtenberg rays, custom background crop and Spanish translation.

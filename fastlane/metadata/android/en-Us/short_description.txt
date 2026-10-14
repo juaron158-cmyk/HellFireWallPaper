@@ -1,0 +1,1 @@
+An animated wallpaper that recreates the fire effect from the PSX version of DOOM, featuring adjustment controls and the option to use your own background image. It also includes algorithms that mimic the freezing patterns of ice.
