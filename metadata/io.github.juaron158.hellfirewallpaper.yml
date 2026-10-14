@@ -9,3 +9,13 @@ BriefDescription: Live wallpaper con el efecto de fuego de DOOM PSX para Android
 WebSite: https://github.com/juaron158-cmyk/HellFireWallPaper
 AuthorEmail: juaron158@gmail.com
 OwnerName: juaron158-cmyk
+Builds:
+versionName: 1.1
+versionCode: 2
+commit: ba60997451d557f026ea74166f76ba01a4d6b4df
+subdir: app
+gradle: -yes
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 1.1
+CurrentVersionCode: 2
